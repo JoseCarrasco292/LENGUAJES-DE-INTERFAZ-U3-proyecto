@@ -1,0 +1,5 @@
+CON-001|Consola Retro Arcade|4599.50|12
+JUE-102|Aventura Galactica Ed|899.90|25
+ACC-205|Control Inalambrico Pro|185.50|4
+TAR-310|Tarjeta Regalo Digital|12.05|50
+AUD-404|Audifonos Gamer Surround|1250.00|8
